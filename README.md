@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! I'm Harry Ken 👋
 
-<!--
-**Harry178945/Harry178945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Epitech Student | Cybersecurity Enthusiast 🛡️
 
-Here are some ideas to get you started:
+Welcome to my profile! I'm a developer currently honing my skills at **Epitech**, where I turn complex logic into efficient code. My main focus is **Cybersecurity** and low-level programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🏫 Student at **Epitech University**.
+- 🛡️ Passionate about **Pentesting**, vulnerability research, and network security.
+- 💻 I love solving technical challenges, from memory management in C to automation scripts in Python.
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** 
+  - ![C](https://shields.io) (Advanced pointer & memory management)
+  - ![Python](https://shields.io) (Scripting, automation, and security tools)
+- **OS & Tools:** Linux (Parrot/Ubuntu), Git, Docker.
+
+### 📈 GitHub Stats
+![Harry's GitHub stats](https://vercel.app)
+
+---
+
+### 📫 Connect with me
+- **LinkedIn:** [ADJE Harry Ken](https://www.linkedin.com/in/harry-ken-adje-27b693374?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- **HackTheBox / TryHackMe:** [https://app.hackthebox.com/public/users/2882479]
+
+*"Code is law, but security is a priority."*
