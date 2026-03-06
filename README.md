@@ -13,8 +13,7 @@ Welcome to my profile! I'm a developer currently honing my skills at **Epitech**
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** 
-  - ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white) (Advanced pointer & memory management)
-  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) (Scripting, automation, and security tools)
+  - ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - **OS & Tools:** Linux (Parrot/Ubuntu), Git, Docker.
 
 ### 📈 GitHub Stats
