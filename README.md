@@ -26,4 +26,6 @@ Welcome to my profile! I'm a developer currently honing my skills at **Epitech**
 - **LinkedIn:** [ADJE Harry Ken](https://www.linkedin.com/in/harry-ken-adje-27b693374?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - **HackTheBox / TryHackMe:** [https://app.hackthebox.com/public/users/2882479]
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 *"Code is law, but security is a priority."*
