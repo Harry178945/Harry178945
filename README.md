@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harry Ken</h1>
 <h3 align="center">🎓 Epitech Student | Cybersecurity Enthusiast 🛡️ </h3>
 
-<h2>Welcome to my profile! I'm a developer currently honing my skills at Epitech, where I turn complex logic into efficient code. My main focus is Cybersecurity and low-level programming.</h2>
+<h3>Welcome to my profile! I'm a developer currently honing my skills at Epitech, where I turn complex logic into efficient code. My main focus is Cybersecurity and low-level programming.</h3>
 
-<h2>🏫 Student at Epitech University.</h2>
-<h2>🛡️ Passionate about Pentesting, vulnerability research, and network security.</h2>
-<h2>💻 I love solving technical challenges, from memory management in C to automation scripts in Python.</h2>
+<h4>🏫 Student at Epitech University.</h4>
+<h4>🛡️ Passionate about Pentesting, vulnerability research, and network security.</h4>
+<h4>💻 I love solving technical challenges, from memory management in C to automation scripts in Python.</h4>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harry178945" alt="harry178945" /></a> </p>
