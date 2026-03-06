@@ -18,7 +18,7 @@ Welcome to my profile! I'm a developer currently honing my skills at **Epitech**
   - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge).
 
 ### 📈 GitHub Stats
-![Harry's GitHub stats]([![GitHub Streak](https://streak-stats.demolab.com?user=Harry178945&theme=city-lights)](https://git.io/streak-stats))
+![Harry's GitHub stats](https://streak-stats.demolab.com?user=Harry178945&theme=city-lights&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
