@@ -14,7 +14,8 @@ Welcome to my profile! I'm a developer currently honing my skills at **Epitech**
 ### 🛠️ Tech Stack & Tools
 - **Languages:** 
   - ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- **OS & Tools:** (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge).
+- **OS & Tools:**
+     (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) (https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge).
 
 ### 📈 GitHub Stats
 ![Harry's GitHub stats](https://vercel.app)
