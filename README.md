@@ -14,7 +14,9 @@
 <p align="left">
 <a href="https://twitter.com/harryken1497237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harryken1497237" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/harry-ken-adje-27b693374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/harryken.exe?igsh=n2trznv2nhrldnf5&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/harryken.exe?igsh=n2trznv2nhrldnf5&utm_source=qr" height="30" width="40" /></a>
+<a href="https://www.instagram.com/harryken.exe/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harryken.exe" height="30" width="40" />
+</a>
 <a href="https://discord.gg/https://discord.gg/sbq84ug8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/sbq84ug8" height="30" width="40" /></a>
 </p>
 
