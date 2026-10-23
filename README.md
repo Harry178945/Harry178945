@@ -79,11 +79,12 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Harry178945&theme=terminal&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harry178945&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Harry178945&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00d4ff&text_color=ffffff" alt="GitHub Stats" />
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry178945&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=ffffff" alt="Top Languages" />
 
 <br/>
